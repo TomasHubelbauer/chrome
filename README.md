@@ -1,5 +1,7 @@
 # Chrome Disable Tab Discarding
 
+[**WEB**](https://tomashubelbauer.github.io/chrome-disable-tab-discarding)
+
 Tab Discarding is a feature of Chromium-based browsers where the browser unloads a tab which has not been focused by the user for
 a certain amount of time and reloads it upon entry when the user focuses the tab again.
 
