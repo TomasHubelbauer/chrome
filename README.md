@@ -23,3 +23,5 @@ To disable it, go to:
 `chrome://flags/#automatic-tab-discarding`
 
 Switch the value to *Disabled* and restart Chrome.
+
+## To-Do
